@@ -1,6 +1,6 @@
 ## catsintents is a software engineer at github always learning new things
 
-<img src="https://user-images.githubusercontent.com/50207707/85071847-fe583780-b16c-11ea-997b-24419768461e.gif" alt="cat gif from salad meme" width="200"/>
+<img src="https://user-images.githubusercontent.com/50207707/85071847-fe583780-b16c-11ea-997b-24419768461e.gif" alt="cat gif from salad meme" width="100"/>
 
 
 
